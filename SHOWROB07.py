@@ -434,7 +434,7 @@ class Main:
 		elif SHOWROB in ["2", "02"]:
 			print("    Thanks♥️")
 			exit() 
-		elif FOYSAL in ["1", "01"]:
+		elif SHOWROB in ["1", "01"]:
 			os.system("xdg-open https://www.facebook.com/link.diya.ki.hat.marbi.nki")
 			print("")
 			time.sleep(3.0)
